@@ -11,7 +11,7 @@ else
   console.log("Failed!");
 ```
 
-1.     console.log(value = 100 : "Perfect" ? > 75 : "Passed" : "Failed");
+1.     console.log(value = 100 : "Perfect" ? value > 75 : "Passed" : "Failed");
 1.     console.log(value ? = 100 : "Perfect" ? > 75 : "Passed" : "Failed");
 1.     console.log(value = 100 ? "Perfect" : value > 75 ? "Passed" : "Failed");
 1.     console.log(value ? 100 : "Perfect" ? value > 75 : "Passed" ? : "Failed");
